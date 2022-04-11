@@ -1,0 +1,29 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "First assignment",
+  "main": "index.js",
+  "directories": {
+    "test": "echo test",
+    "start": "node index.js"
+  },
+  "scripts": {
+    "test": "echo test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuyFrance123/assignement-1-.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "Duy Pham Ngoc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DuyFrance123/assignement-1-/issues"
+  },
+  "homepage": "https://github.com/DuyFrance123/assignement-1-#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
